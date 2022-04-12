@@ -18,7 +18,7 @@ public class BaseTests {
         driver.get("https://the-internet.herokuapp.com");
 
         homePage = new HomePage(driver);
-
+    //something extra
 
     }
 
